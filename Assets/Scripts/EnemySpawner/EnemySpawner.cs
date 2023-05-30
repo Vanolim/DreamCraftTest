@@ -25,7 +25,7 @@ public class EnemySpawner : IInitilizable
     {
         for (int i = 0; i < _enemySpawnDatas.Length; i++)
         {
-            _enemyPool.Initialize(_enemySpawnDatas[i].Enemy.EnemyType);
+            _enemyPool.Initialize(_enemySpawnDatas[i].Enemy);
         }
     }
 
@@ -37,7 +37,7 @@ public class EnemySpawner : IInitilizable
         
         while (true)
         {
-            Spawn(enemySpawnData.Enemy.EnemyType);
+            Spawn(enemySpawnData.Enemy);
             yield return delay;
         }
     }

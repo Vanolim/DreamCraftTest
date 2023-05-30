@@ -3,7 +3,7 @@ using System;
 [Serializable]
 public class EnemySpawnData
 {
-    public Enemy Enemy;
+    public EnemyType Enemy;
     public int Wait;
     public int Delay;
 }
