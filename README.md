@@ -1,6 +1,6 @@
 # DreamCraftTest
 Тестовое задание студии DreamCraft.
-<details open>
+<details>
 <summary>Задание</summary>
 <br>
 Игра состоит из следующих компонентов:
@@ -27,12 +27,12 @@
 1) Игра подходит для игры на пк и для игры на андройде без изменения кода (на андройде активируется джойстик для управления)
 2) Самописный DI контейнер, сделанный по аналогии Zenject. Гибкий в использовании и удобный за счет жесткой очереди на bind and inject
 3) Создание новых уровней удобно реализовано с помощью SO
-<details open>
+<details>
 <summary>Настройка оружия игрока на уровень</summary>
 <br>
 <img width="458" alt="image" src="https://github.com/Vanolim/DreamCraftTest/assets/60060770/7428a547-a3ba-4154-a8cd-92486f746c63">
 </details>
-<details open>
+<details>
 <summary>Настройка волн врагов на уровень</summary>
 <br>
 <img width="458" alt="image" src="https://github.com/Vanolim/DreamCraftTest/assets/60060770/6bd44a62-5c4d-4371-ac2b-02be5a14e7a0">
