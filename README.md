@@ -40,4 +40,8 @@
 <br>
 <img width="458" alt="image" src="https://github.com/Vanolim/DreamCraftTest/assets/60060770/6bd44a62-5c4d-4371-ac2b-02be5a14e7a0">
 </details>
-4) Используются пулы для врагов и пуль. (пулы также передаются через DI)
+4) Используются пулы для врагов и пуль (пулы также передаются через DI)
+
+# Плагины, использованные в проекте:
+1) DOTween
+2) TextMeshPro
