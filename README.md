@@ -1,5 +1,8 @@
 # DreamCraftTest
 Тестовое задание студии DreamCraft.
+
+![hippo]([https://media.giphy.com/media/VfkncbQvwkxRE0jw7k/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJtd2NtZ3phOTV0eHE5Z3kyYnJoOHJmYnhrYzhkcHZjam9mNDVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6nRJ8Y6aVzYZDohJsm/giphy.gif))
+
 <details>
 <summary>Задание</summary>
 <br>
@@ -37,3 +40,4 @@
 <br>
 <img width="458" alt="image" src="https://github.com/Vanolim/DreamCraftTest/assets/60060770/6bd44a62-5c4d-4371-ac2b-02be5a14e7a0">
 </details>
+4) Используются пулы для врагов и пуль. (пулы также передаются через DI)
